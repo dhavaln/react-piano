@@ -14,9 +14,8 @@ class App extends Component {
     return (
       <div className="App">
         <h1 className="app-header">
-          Piano + React = ❤
+          Piano + React = <span style={{color: 'red'}}>❤</span>
         </h1>
-        <hr/>
         <div className="app-body">
           <Home/>
         </div>
