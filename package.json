@@ -1,0 +1,21 @@
+{
+  "name": "react-piano-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "custom-react-scripts": "0.0.20"
+  },
+  "dependencies": {
+    "@blueprintjs/core": "^1.2.0",
+    "classnames": "^2.2.5",
+    "react": "^15.4.1",
+    "react-addons-css-transition-group": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
