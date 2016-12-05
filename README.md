@@ -3,6 +3,4 @@
 
 It's still a work in progress, will add some more features and host it on Github Pages to play around.
 
-## Demo
-
-![](https://dl.dropbox.com/s/a4kqx3pjsfhdq7u/ReactPiano-Home.png)
+![](https://dl.dropbox.com/s/jv5fgmftyekb5ee/ReactPiano-Home.png)
